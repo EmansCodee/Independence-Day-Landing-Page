@@ -469,3 +469,17 @@ footer{
     align-items: center;
     justify-content: center;
 }
+
+@media screen and (max-width : 600px )
+{
+    #overall{
+    display:flex;
+    justify-content: center;
+    height:100%;
+    width:100%;
+    background-image: url('assets\\collage.png');
+    position:relative;
+    }
+    
+
+}
